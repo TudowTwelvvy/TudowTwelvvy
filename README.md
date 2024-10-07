@@ -1,7 +1,7 @@
 ## Hi there, I'm Tumelo Khanye👋
 
-- 👀 I’m interested in Software Engineering and Artificial Intelligence.
-- ⚡ I’m looking to collaborate on any exciting projects!
+- 👀 I’m interested in Software Engineering.
+- 🫡 I’m looking to collaborate on any exciting projects!
 - 📫 You can reach me here or on LinkedIn: www.linkedin.com/in/tumelo-khanye
 
 <!--
